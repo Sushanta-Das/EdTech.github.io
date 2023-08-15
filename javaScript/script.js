@@ -23,12 +23,12 @@ const loginForm=`
 <form class="myForm" action="/contact" method="post">
     <input class="myInput" type="text" name="singIn" placeholder="User name or phone number">
     <input class="myInput" type="password" name="password" placeholder="Enter your password">
-    <button class="btn">Sing in </button>
+    <button class="btn">Sign in </button>
 
     <input class="myInput" type="text" name="name" placeholder="Enter your name">
     <input class="myInput" type="number" name="age" placeholder="Enter your age">
     <input class="myInput" type="text" name="singUp" placeholder="Email or phone number">
-    <button class="btn">Sing up </button>
+    <button class="btn">Sign up </button>
 
 </form>
 <style>
